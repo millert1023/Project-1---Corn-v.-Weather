@@ -1,4 +1,26 @@
-# Project-1---Corn-v.-Weather
-Corn v Weather
-Our project is to examine how weather impacts corn prices.  We will examine: whether temperature affects corn prices; what weather type has the largest impact (positive price and negative price); and what weather type has the least impact on prices.  We also look at the differences between States.  Iowa, Indiana and Illinois are the three largest producers of corn.  We will see if there are differences between the prices they receive for the corn that they produce.  Does the weather in one area affect the corn price in another?
-We will use Open Weather API and USDA API (https://quickstats.nass.usda.gov/api)
+# Project-1: Corn vs Weather
+
+## Corn vs Weather
+
+Our project examines how weather impacts on corn prices (US territory).
+
+We will examine:
+
+* _whether temperature affects corn prices_
+* _what weather type has the largest impact (positive price and negative price)_
+* _what weather type has the least impact on prices_
+* _We also look at the differences between States_ 
+
+Iowa, Indiana and Illinois are known for being the three largest producers of corn.
+
+We will also see if:
+
+* _are there differences between the prices they receive for the corn that they produce?_
+* _does the weather in one area affect the corn price in another?_
+
+## APIs
+
+We will use the following APIs:
+
+* _Open Weather API (https://openweathermap.org/api)_ 
+* _USDA - United Stated Department of Agriculture API (https://quickstats.nass.usda.gov/api)_
