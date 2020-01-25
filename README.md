@@ -70,7 +70,7 @@ Our data showed that precipitation had the greatest impact on corn prices.  The 
 
 There were no differences between the states.  The growth and decline were relatively the same.
 
-![Image of Price and State](Price_state.png)
+![Image of Price and State](Price_State.png)
 
 ## Conclusions
 
