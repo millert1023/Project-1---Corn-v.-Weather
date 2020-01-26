@@ -28,6 +28,7 @@ We will use the following APIs:
 * _Corn-prices.ipynb_
 
 * _Corn_master.ipynb_
+* _joecorn.ipynb_
 
 
 ## Findings
